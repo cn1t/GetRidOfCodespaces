@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "GetRidOfCodespaces!",
+  "version": "1.0",
+  "description": "Change the default branch selection on GitHub from 'Codespaces' to 'Checkout Locally'",
+  "permissions": [
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://github.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_title": "GetRidOfCodespaces!",
+    "default_icon": {
+      "16": "./icons/icon16.png",
+      "48": "./icons/icon48.png"
+    }
+  },
+  "icons": {
+    "16": "./icons/icon16.png",
+    "48": "./icons/icon48.png"
+  }
+}
