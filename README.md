@@ -1,5 +1,5 @@
 # GetRidOfCodespaces
-## **#SayNoToCodeSpaces**
+## **#SayNoToCodespaces**
 Changes the default branch selection on GitHub from 'Codespaces' to 'Checkout Locally'.
 Therefore, you can avoid accidently pressing the wrong button. (Happened to me very often)
 
