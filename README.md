@@ -4,3 +4,10 @@ Changes the default branch selection on GitHub from 'Codespaces' to 'Checkout Lo
 Therefore, you can avoid accidently pressing the wrong button. (Happened to me very often)
 
 I slapped this together in like 10min and its my first chrome extension, so its nothing crazy.
+
+## Build from source on linux for **Firefox**
+```sh
+git clone github.com/Niteletsplay/GetRidOfCodespaces
+cd GetRidOfCodespaces
+zip -0 -r GetRidOfCodespaces.xpi * -x GetRidOfCodespaces.xpi
+```
