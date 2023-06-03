@@ -1,5 +1,4 @@
 # GetRidOfCodespaces
-## **#SayNoToCodespaces**
 Changes the default branch selection on GitHub from 'Codespaces' to 'Checkout Locally'.<br>
 <img src="https://github.com/Niteletsplay/GetRidOfCodespaces/assets/67828948/b25ded12-a25e-44c4-9b27-10ce7db88616" width="300">
 
