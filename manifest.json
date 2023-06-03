@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "GetRidOfCodespaces!",
-  "version": "1.0",
+  "version": "1.2",
   "description": "Change the default branch selection on GitHub from 'Codespaces' to 'Checkout Locally'",
   "permissions": [
     "tabs"
