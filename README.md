@@ -5,7 +5,7 @@ Changes the default branch selection on GitHub from 'Codespaces' to 'Checkout Lo
 It also changes the default for the "Download Code" button to "Local".<br>
 <img src="https://github.com/Niteletsplay/GetRidOfCodespaces/assets/67828948/8b2d572f-9540-4428-9e34-c630deb8f019" width="300">
 
-Therefore, you can avoid accidently pressing the wrong button. (Happened to me very often)
+Therefore, you can avoid accidentally pressing the wrong button. (Happened to me very often)
 
 I slapped this together in like 10min and its my first chrome extension, so its nothing crazy.
 
